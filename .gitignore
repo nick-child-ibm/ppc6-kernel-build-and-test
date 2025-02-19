@@ -1,0 +1,11 @@
+linux_tmp
+old_compiler
+modules.order
+*.ko
+*.o
+*.mod
+*.symvers
+*.mod.*
+*.cmd
+test.expect
+
